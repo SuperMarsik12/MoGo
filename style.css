@@ -353,6 +353,12 @@ hr{
     .burgermenu{
         display: block!important;
     }
+    .a1_1, .a1_2, .a1_3{
+        width: 100%;
+    }
+    .teamphoto{
+        width: 100%;
+    }
 }
 .burger-line{
     background-color: white;
